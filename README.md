@@ -1,6 +1,10 @@
 - 👋 Hello , I am @kevinn-raj
-- 👀 I’m interested in : **Computer Science, Machine Learning, Data Science, Theoretical Physics, Game Developing**
--   
+- 👀 I’m interested in : 
+  - Computer Science
+  - Machine Learning
+  - Data Science
+  - Game Developing
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
