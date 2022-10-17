@@ -2,7 +2,7 @@
 - 👀 I’m interested in : 
   - Computer Science
   - Machine Learning
-  - Data Science
+  - Data Science, Big Data
   - Game Developing, 3D modeling
 
 - 🌱 I’m currently learning : Machine learning
