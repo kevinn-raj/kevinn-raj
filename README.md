@@ -3,11 +3,11 @@
   - Computer Science
   - Machine Learning
   - Data Science
-  - Game Developing
+  - Game Developing, 3D modeling
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning : Machine learning
+- 💞️ I’m looking to collaborate on : Machine Learning, Deep Learning, 3d stuffs
+- 📫 How to reach me mailto:kevinn@aims.ac.za or mailto:kevinnrajaona@yahoo.com
 
 <!---
 kevinn-raj/kevinn-raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
